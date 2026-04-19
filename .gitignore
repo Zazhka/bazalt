@@ -1,0 +1,10 @@
+# Go-specific ignore rules
+*.exe
+*.test
+bin/
+vendor/
+*.out
+
+# Editor and OS specific files
+.DS_Store
+*.swp
